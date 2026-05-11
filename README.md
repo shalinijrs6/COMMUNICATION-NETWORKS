@@ -298,6 +298,10 @@ Answer: a
 5.Write real-time applications of Bluetooth communication.
 
 
+<img width="450" height="450" alt="qrcode_github com" src="https://github.com/user-attachments/assets/8e66e82d-51f5-45d7-8b6b-5b2d8ca9018b" />
+
+
+
 
 
 
