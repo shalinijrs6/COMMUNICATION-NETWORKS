@@ -30,11 +30,11 @@ A Bluetooth network connects nearby devices wirelessly.
 
 It forms:
 
-Piconet
+# Piconet
 
 A small Bluetooth network with one master and multiple slave devices.
 
-Scatternet
+# Scatternet
 
 Two or more interconnected piconets.
 
