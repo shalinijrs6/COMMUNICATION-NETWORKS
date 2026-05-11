@@ -48,31 +48,16 @@ Bluetooth Speaker acts as receiver
 <img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/509328e6-4b4a-4641-8771-a8b696e4dd08" />
 
 
-
-
 <img width="1600" height="858" alt="image" src="https://github.com/user-attachments/assets/d7b98662-6b32-465d-a9db-8597c78dfe09" />
-
-
-
 
 
 <img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/2d72cd8c-434a-4624-bc0a-deb683c3818d" />
 
 
-
-
 <img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/bf9b113d-2c87-44c1-a427-bc7aa9e71bf3" />
 
 
-
-
-
-
 <img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/b282dbbb-e9c9-4bdb-9b05-7140fb21730e" />
-
-
-
-
 
 # 4.NETWORK DESIGN
 
