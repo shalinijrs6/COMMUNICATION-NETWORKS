@@ -228,8 +228,11 @@ Cisco Packet Tracer supports Bluetooth simulation — True
 1. Bluetooth operates in:
 
 a) 5 GHz
+
 b) 2.4 GHz
+
 c) 10 GHz
+
 d) 1 GHz
 
 Answer: b
@@ -237,8 +240,11 @@ Answer: b
 2. In this simulation, sender is:
 
 a) Speaker
+
 b) Music Player
+
 c) Router
+
 d) Switch
 
 Answer: b
@@ -246,8 +252,11 @@ Answer: b
 3. Bluetooth communication is:
 
 a) Wired
+
 b) Wireless
+
 c) Optical
+
 d) Satellite
 
 Answer: b
@@ -255,25 +264,38 @@ Answer: b
 4. Bluetooth range is:
 
 a) Short
+
 b) Very long
+
 c) Unlimited
+
 d) Global
 
 Answer: a
 
 # 18. Short Answer Questions
-What is Bluetooth?
-What is pairing?
-Explain the working of this simulation.
-What is the role of Bluetooth Speaker?
-Mention two applications.
+
+1.What is Bluetooth?
+
+2.What is pairing?
+
+3.Explain the working of this simulation.
+
+4.What is the role of Bluetooth Speaker?
+
+5.Mention two applications.
 
 # 19. Long Answer Questions
-Explain Bluetooth communication using Cisco Packet Tracer.
-Describe the working principle of Bluetooth pairing.
-Discuss advantages and disadvantages of Bluetooth.
-Explain the output of Bluetooth Speaker simulation.
-Write real-time applications of Bluetooth communication.
+
+1.Explain Bluetooth communication using Cisco Packet Tracer.
+
+2.Describe the working principle of Bluetooth pairing.
+
+3.Discuss advantages and disadvantages of Bluetooth.
+
+4.Explain the output of Bluetooth Speaker simulation.
+
+5.Write real-time applications of Bluetooth communication.
 
 
 
