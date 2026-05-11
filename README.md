@@ -210,17 +210,25 @@ This simulation helps understand practical Bluetooth communication used in real-
 
 # Fill in the Blanks
 Bluetooth operates in ______ GHz band.
+
 The music player acts as the ______ device.
+
 Bluetooth Speaker acts as the ______ device.
+
 Bluetooth provides ______ communication.
+
 Green dotted line indicates ______ connection.
 
 
 # 16. True or False
 Bluetooth uses wired communication — False
+
 Bluetooth Speaker receives audio data — True
+
 Portable Music Player sends signals — True
+
 Bluetooth works over long distances — False
+
 Cisco Packet Tracer supports Bluetooth simulation — True
 
 
